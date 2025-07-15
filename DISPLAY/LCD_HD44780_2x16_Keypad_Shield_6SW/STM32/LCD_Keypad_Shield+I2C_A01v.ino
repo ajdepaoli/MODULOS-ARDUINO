@@ -3,7 +3,7 @@
 // Programa para: TEST de MODULOS
 // Módulo: TEST de "STM32F103C8T6 BluePill" + "I2C" + "LCD Keypad Shield"
 // Creador y programador: Alejandro Jorge Depaoli
-// Ayudante: 
+// Ayudante: IA Copilot
 // Fecha de Inicialización: 06/07/2025
 // Versión: A01
 // Ultima Revisión: 11/07/2025
