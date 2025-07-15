@@ -14,14 +14,14 @@
 // Reload Board Data											>	¡ ¡ ¡ O J O ! ! ! Desconfigura todo
 // Obtener información de la placa
 // ------------
-// Debug symbols and core logs: "None"							>	Por ahora sin DEBUG
-// Optimize: "Faster (-02) with LT"								>	Termino Medio para la Compilación 
+// Debug symbols and core logs: "None"						        	>	Por ahora sin DEBUG
+// Optimize: "Faster (-02) with LT"							          	>	Termino Medio para la Compilación 
 // Board part number: "BluePill F103CB (or C8 with 128k)"		> 	SELECIONAR este ITEM ¡ ¡ ¡ O J O ! ! ! el AZUL
-// C Runtime Library: "Newlib Nano (default)"					>	Sin uso de la CONSOLA
-// Upload method: "STM32CubeProgrammer (SWD)"					>	SELECIONAR este ITEM para ST-LINK
-// USB support (if available): "None"							>	Conexión por ST-LINK
-// U(S)ART support: "Disabled (no Serial support)"				>	Conexión por ST-LINK y Sin uso de la CONSOLA
-// USB speed (if available): "Low/Full Speed"					>	Conexión por ST-LINK, sin importancia
+// C Runtime Library: "Newlib Nano (default)"				      	>	Sin uso de la CONSOLA
+// Upload method: "STM32CubeProgrammer (SWD)"				      	>	SELECIONAR este ITEM para ST-LINK
+// USB support (if available): "None"						          	>	Conexión por ST-LINK
+// U(S)ART support: "Disabled (no Serial support)"			  	>	Conexión por ST-LINK y Sin uso de la CONSOLA
+// USB speed (if available): "Low/Full Speed"			      		>	Conexión por ST-LINK, sin importancia
 //
 //
 //
