@@ -4,6 +4,8 @@ En este REPOSITORIO, podran encontrar, todo lo que pueda ir cargando sobre Modul
 
 Los MODULOS, están ordenado por tipo o funcionalidad, luego por el Modelo y dentro de estos, estan los Pinout, esquemas y si es necesario un SKETCH para su test.
 
+Tambien encontran un archivo "Orden SKETCH ''STM32 2x20pines''.ino", el cual lo estoy terminando, lo dejo para ayuda, este contiene una forma estructurada de como trabajo un sketch. ACLARO: está en COSTRUCCION.
+
 En caso de dudas, consultarme, NO dejes que lo desesperanza de que algo que no funciene te aleje de esto.
 
 LISTA de SKETCH Terminados:
