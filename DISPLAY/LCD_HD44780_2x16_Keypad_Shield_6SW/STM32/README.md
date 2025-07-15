@@ -1,5 +1,6 @@
 https://github.com/ajdepaoli/MODULOS-ARDUINO/tree/main/DISPLAY/LCD_HD44780_2x16_Keypad_Shield_6SW/STM32
 
+Este repositorio contiene módulos técnicos para Arduino, desarrollados y documentados bajo el enfoque ESTRUCTURADO.
 
 TEST para los siguientes MODULOS:
 
